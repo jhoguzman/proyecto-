@@ -1,0 +1,23 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, .1);
+  height: 90vh;
+  width: 450px;
+}
+.contener{
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
