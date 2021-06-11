@@ -38,6 +38,15 @@
   place-items: center;
   
 }
+.panel1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 25vh;
+  width: 30vh;
+  place-items: center;
+  
+}
 .input{
   margin: 10px;
   height: 40px;
@@ -63,6 +72,7 @@
   padding: 10px;
   font-weight: 600;
   color: #fff;
+  text-align: center;
   
 }
 .boton:hover{
@@ -77,6 +87,6 @@
   
 }
 .img{
-  width: 150px;
+  width: 250px;
 }
 
